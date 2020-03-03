@@ -13,4 +13,9 @@ class MainActivity : AppCompatActivity() {
     private fun halo(){
         //isinya buat komen
     }
+
+    private fun haloyangkedua(){
+        //isinya buat komen
+    }
+
 }
