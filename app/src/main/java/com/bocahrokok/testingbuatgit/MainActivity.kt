@@ -22,4 +22,8 @@ class MainActivity : AppCompatActivity() {
         //isinya mbuat master kedua
     }
 
+    private fun madeByFathur(){
+        //dibuat oleh fathur
+    }
+
 }
