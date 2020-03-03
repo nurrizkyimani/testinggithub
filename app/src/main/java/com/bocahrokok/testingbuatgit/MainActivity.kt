@@ -18,4 +18,8 @@ class MainActivity : AppCompatActivity() {
         //isinya buat komen
     }
 
+    private fun fungsibuatmasterkedua(){
+        //isinya mbuat master kedua
+    }
+
 }
